@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Omkar Sandeep Dabir",
+      "balance": 5000,
+      "cardNumber": "1001",
+      "pin": "1234",
+      "bankName": "BankA"
+    },
+    {
+      "name": "Prince Bhagat",
+      "balance": 5000,
+      "cardNumber": "1002",
+      "pin": "5678",
+      "bankName": "BankA"
+    },
+    {
+      "name": "Abhinav Thakur",
+      "balance": 5000,
+      "cardNumber": "2001",
+      "pin": "4567",
+      "bankName": "BankB"
+    },
+    {
+      "name": "Priyadarshan Todmal",
+      "balance": 100,
+      "cardNumber": "3001",
+      "pin": "7890",
+      "bankName": "BankC"
+    }
+  ]
+}
